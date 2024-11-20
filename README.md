@@ -2,6 +2,7 @@
 <html>
 <head>
 
+<p2> There is much to learn about coding. Also, coding is like it's own world of fun that you could never imagine. </p>
 
 </head>
 <body>
