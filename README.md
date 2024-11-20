@@ -32,9 +32,7 @@ p {
  border: black
    
  </style>
- <body>
- <img src="https://images.app.goo.gl/pbS9aykEC9pGvoAT9" alt="Password Security">
- </body>
+ 
  
  
  
