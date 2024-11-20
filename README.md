@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<Password Security> 
 <html>
 <head>
 <style>
 h1 {
-  color: blue;
+  color: black;
   font-family: verdana;
   font-size: 300%;
 
@@ -25,4 +25,7 @@ p  {
 p {
  color: black;
  }
+ </style>
+ <style>
+   
  </style>
