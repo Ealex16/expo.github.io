@@ -16,8 +16,8 @@ p  {
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Password Security</h1>
+<p>Today you will be learning about the importance of password security.Click the link to learn more.</p>
 
 </body>
 </html>
