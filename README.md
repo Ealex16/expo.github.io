@@ -23,6 +23,6 @@ p  {
 </html>
 <style>
 p {
- color: blue;
+ color: black;
  }
  </style>
