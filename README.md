@@ -14,10 +14,27 @@ p  {
 </style>
 </head>
 <body>
+<style>
+   h1 {
+     align-text: center;
+     }
+   p {
+     align-text: center;
+     }
+ </style>
 
 <h1>Password Security</h1>
 <p>Today you will be learning about the importance of password security.Click the link to learn more.</p>
-
+<style>
+ p {
+     border: 2px black;
+     }
+ </style>
+ <style>
+   p {background-color: powderblue;}
+   body {background-color: powderblue;}
+   h1 {background-color: powderblue;}
+ </style>
 
 </body>
 </html>
@@ -33,19 +50,8 @@ p {
  }
    
  </style>
- <style>
-   h1 {
-     align-text: center;
-     }
-   p {
-     align-text: center;
-     }
- </style>
- <style>
-   p {
-     border: 2px black;
-     }
- </style>
+ 
+ 
  
  
  
