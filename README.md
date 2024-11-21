@@ -42,13 +42,6 @@ p {
      }
  </style>
  <style>
-   body {
-     background-image: url('https://images.app.goo.gl/daZssRBpU83uFvv26');
-     align-image: center;
-     }
-     
- </style>
- <style>
    p {
      border: 2px black;
      }
