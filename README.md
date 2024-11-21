@@ -12,7 +12,6 @@ p  {
   font-size: 160%;
 }
 </style>
-  <img src
 </head>
 <body>
 <style>
