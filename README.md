@@ -6,7 +6,6 @@ h1 {
   color: black;
   font-family: verdana;
   font-size: 300%;
-
 }
 p  {
   font-family: courier;
@@ -29,28 +28,29 @@ p {
  </style>
  <style>
  p {
- border: 4px
- border: black
+ border: 2px;
+ border: black;
+ }
    
  </style>
  <style>
    h1 {
-     align-text: center
+     align-text: center;
      }
    p {
-     align-text: center
+     align-text: center;
      }
  </style>
  <style>
    body {
-     background-image: url('https://images.app.goo.gl/daZssRBpU83uFvv26')
-     align-image: center
+     background-image: url('https://images.app.goo.gl/daZssRBpU83uFvv26');
+     align-image: center;
      }
      
  </style>
  <style>
    p {
-     border: 2px black
+     border: 2px black;
      }
  </style>
  
