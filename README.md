@@ -23,7 +23,6 @@ p  {
      align-text: center;
      }
  </style>
- <body style= url('https://images.app.goo.gl/FK9pb46VbsiUNvoF6');"</body>
 
 <h1>Password Security</h1>
 <p>Today you will be learning about the importance of password security.Click the link to learn more.</p>
