@@ -42,8 +42,9 @@ p {
      }
  </style>
  <style>
-   h1 {
+   body {
      background-image: url('https://images.app.goo.gl/daZssRBpU83uFvv26')
+     align-image: center
      }
      
  </style>
@@ -52,6 +53,7 @@ p {
      border: 2px black
      }
  </style>
+ 
  
  
  
