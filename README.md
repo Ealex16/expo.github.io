@@ -19,6 +19,7 @@ p  {
 <h1>Password Security</h1>
 <p>Today you will be learning about the importance of password security.Click the link to learn more.</p>
 
+
 </body>
 </html>
 <style>
@@ -32,6 +33,22 @@ p {
  border: black
    
  </style>
+ <style>
+   h1 {
+     align-text: center
+     }
+   p {
+     align-text: center
+     }
+ </style>
+ <style>
+   h1 {
+     background-image: url('https://images.app.goo.gl/daZssRBpU83uFvv26')
+     }
+     
+ </style>
+ 
+ 
  
  
  
